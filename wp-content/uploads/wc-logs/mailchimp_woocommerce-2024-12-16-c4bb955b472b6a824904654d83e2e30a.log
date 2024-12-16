@@ -1,0 +1,15 @@
+2024-12-16T08:26:53+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 2
+    [gdpr_fields] => 
+)
+
+2024-12-16T10:15:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 166
+2024-12-16T13:21:36+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 2
+    [gdpr_fields] => 
+)
+

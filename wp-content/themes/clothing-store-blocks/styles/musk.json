@@ -1,0 +1,76 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Musk",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#fbfbfb",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#CF8270",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#9B0505",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#FFECE8",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#777777",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#000000",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#2C365D",
+                "name": "Top Bg Color",
+                "slug": "top-bg-color"
+            },
+            {
+                "color": "#f8f8f8",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#000000",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#f5f5f5",
+                "name": "Footer Bg",
+                "slug": "footer-bg"
+            },
+            {
+                "color":"#dfdfdf",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#a7aaad",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            } 
+        ]
+    }
+  }
+}
